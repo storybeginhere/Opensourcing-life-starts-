@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @storybeginhere
+- 👋 Hi, I’m @jinter
 - 👀 I’m interested in c java lisp emacs,etc.This is my start of coding,thus I dont know the future learning path. Just here hahaha!
 - 🌱 I’m currently learning c , java ,lisp and linux.
 
